@@ -42,3 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyebsarkar&show_icons=true&locale=en" alt="soyebsarkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyebsarkar&" alt="soyebsarkar" /></p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SoyebSarkar&theme=monokai" />
+</p>
