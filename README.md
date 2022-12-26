@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyebsarkar" alt="soyebsarkar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/soyebsarkar2" target="blank"><img src="https://img.shields.io/twitter/follow/soyebsarkar2?logo=twitter&style=for-the-badge" alt="soyebsarkar2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itsSoyeb" target="blank"><img src="https://img.shields.io/twitter/follow/itsSoyeb?logo=twitter&style=for-the-badge" alt="soyebsarkar2" /></a> </p>
 
 [![@soyebsarkar's Holopin board](https://holopin.me/soyebsarkar)](https://holopin.io/@soyebsarkar)
 
@@ -26,7 +26,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/soyebsarkar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soyebsarkar2" height="30" width="40" /></a>
+<a href="https://twitter.com/itsSoyeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsSoyeb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soyeb-sarkar-5bb8141b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soyeb-sarkar-5bb8141b6" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/soyeb_sarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="soyeb_sarkar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/soyebsarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="soyebsarkar" height="30" width="40" /></a>
